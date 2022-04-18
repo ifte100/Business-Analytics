@@ -2,8 +2,7 @@
 This is the repository for Business Analytics subject Deakin University 2021
 # Assignment-2
 Clear and complete analysis of Basketball team's membership data using appropriate techniques to produce accurate results.
-Providing concise and correct conclusions. 
-Providing an appropriate and accurate chart/graph for each part, with clear formatting
+Providing concise and correct conclusions. Providing an appropriate and accurate chart/graph for each part, with clear formatting.
 
 Analysis included:
 
